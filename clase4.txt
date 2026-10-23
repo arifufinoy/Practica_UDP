@@ -1,0 +1,4 @@
+El cliente utiliza la ip de la maquina servidor.
+
+El servidor tiene que estar con otods los rangos de ip 0.0.0.0.
+
